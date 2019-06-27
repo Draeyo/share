@@ -1,2 +1,4 @@
 conf.py
 sharex.wsgi
+logs/
+uploaded/
